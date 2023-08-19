@@ -4,7 +4,14 @@ function App() {
 
   return (
     <> 
-      <Navbar />
+      <Navbar signIn='SIGN IN'
+       legal='LEGAL'
+       sec='SECURITY'
+       career='CAREERS'
+       press='PRESS'
+       support='SUPPORT'
+       status='STATUS'
+       codeBlog='CODEBLOG' />
     </>
   )
 }
