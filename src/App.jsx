@@ -1,4 +1,5 @@
-import Navbar from "./Components/Navbar"
+import Navbar from "./Components/Navbar";
+import CashText from "./Components/CashText";
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
        support='SUPPORT'
        status='STATUS'
        codeBlog='CODEBLOG' />
+       <CashText title='CASH'/>
     </>
   )
 }
