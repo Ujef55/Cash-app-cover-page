@@ -1,6 +1,5 @@
 import Navbar from "./Components/Navbar";
-import CashText from "./Components/CashText";
-
+import Hero from "./Components/Hero";
 function App() {
 
   return (
@@ -13,7 +12,7 @@ function App() {
        support='SUPPORT'
        status='STATUS'
        codeBlog='CODEBLOG' />
-       <CashText title='CASH'/>
+       <Hero cash='CASH' app='APP'/>
     </>
   )
 }
