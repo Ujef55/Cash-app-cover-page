@@ -1,5 +1,7 @@
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
+import Images from "./Components/Images";
+
 function App() {
 
   return (
@@ -12,6 +14,7 @@ function App() {
        support='SUPPORT'
        status='STATUS'
        codeBlog='CODEBLOG' />
+      <Images />
        <Hero cash='CASH' app='APP'/>
     </>
   )

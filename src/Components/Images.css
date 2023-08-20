@@ -1,0 +1,17 @@
+/* Images.css */
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cube-1 {
+    height: 90px;
+    margin-left: 160px;
+}
+
+.stairs-1 {
+    height: 250px;
+    margin-right: 250px;
+    /* Add any other styles you need for the stairs image */
+}
