@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Images from "./Components/Images";
+import Footer from "./Components/Footer";
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
        codeBlog='CODEBLOG' />
       <Images />
        <Hero cash='CASH' app='APP'/>
+       <Footer />
     </>
   )
 }
