@@ -3,7 +3,7 @@
 
 .hero-cash-text {
     text-align: center;
-    font-size: 130px;
+    font-size: 97px;
     margin-top: -190px;
     /* width: 1500px; */
     font-family: 'Work Sans', sans-serif;
@@ -18,9 +18,9 @@
     left: 50%;
     transform: translate(-50%, -50%); 
     z-index: 2;
-    margin-top: 135px;
-    width: 360px;
-    height: 500px;
+    margin-top: 67px;
+    width: 296px;
+    height: 418px;
 }
 
 .hero-app-text {
@@ -30,7 +30,7 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-top: 201px;
+    margin-top: 123px;
     transform: translate(-50%, -50%);
     z-index: 3;
     color: #fff;
