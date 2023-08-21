@@ -19,7 +19,7 @@ function App() {
       <Images />
        <Hero cash='CASH' app='APP'/>
        <Footer />
-       <FooterContent />
+       <FooterContent appStore='APP STORE' playStore='PLAY STORE'/>
     </>
   )
 }
