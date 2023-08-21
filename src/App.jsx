@@ -2,6 +2,7 @@ import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Images from "./Components/Images";
 import Footer from "./Components/Footer";
+import FooterContent from "./Components/FooterContent";
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <Images />
        <Hero cash='CASH' app='APP'/>
        <Footer />
+       <FooterContent />
     </>
   )
 }
