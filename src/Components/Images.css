@@ -13,5 +13,20 @@
 .stairs-1 {
     height: 250px;
     margin-right: 250px;
-    /* Add any other styles you need for the stairs image */
 }
+
+
+
+
+@media screen and (max-width: 768px) {
+    .cube-1 {
+      height: 33px;
+      margin-left: 20px;
+    }
+  
+    .stairs-1 {
+      height: 60px;
+      margin-right: 20px;
+    }
+  }
+  

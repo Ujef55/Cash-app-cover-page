@@ -35,3 +35,24 @@
     z-index: 3;
     color: #fff;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    .hero-cash-text {
+        font-size: 35px;
+        margin-top: -58px;
+    }
+  
+    .phone-img {
+        margin-top: -55px;
+        width: 109px;
+        height: 141px;
+    }
+  
+    .hero-app-text {
+        font-size: 34px;
+        margin-top: -37px;
+    }
+  }
+  
